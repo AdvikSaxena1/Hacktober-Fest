@@ -4,7 +4,7 @@ class Book:
         self.author = author
 
     def __eq__(self, other):
-    return self.title == other.title and self.author == other.author  
+        return self.title == other.title and self.author == other.author  
 
 book1 = Book('Python Programming', 'John Doe')
 book2 = "Python Programming"  
