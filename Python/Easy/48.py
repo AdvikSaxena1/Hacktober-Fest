@@ -1,4 +1,5 @@
 def greet():
-    return  
-result = greet() + "Hello"
+    return "Hello"
+result = greet()
+print(result)
   
