@@ -11,3 +11,5 @@ def greet():
 
 def greet():
     print("Hello")
+
+greet()
