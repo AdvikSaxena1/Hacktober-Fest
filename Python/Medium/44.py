@@ -1,7 +1,4 @@
 def calculate_sum():
-    sum = 0
-    
-    
     numbers = [1, 2, 3, 4]
     total = sum(numbers)
     print("The sum of the numbers is:", total)
