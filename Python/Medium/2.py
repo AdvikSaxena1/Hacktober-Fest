@@ -1,2 +1,2 @@
-x = 10
+x = str(10)
 print(len(x))  
