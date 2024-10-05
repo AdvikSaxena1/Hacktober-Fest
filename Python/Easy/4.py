@@ -1,4 +1,4 @@
-message = "py" 
+message = "py"
 print(message)
 
 title = "Python's 'cool' feature"
