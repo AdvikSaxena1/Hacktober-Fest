@@ -1,2 +1,3 @@
- s = "abc"
-     s[0] = 'A'
+s = "abc"
+s=list(s)
+s[0] = 'A'
