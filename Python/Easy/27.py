@@ -1,2 +1,2 @@
-data = [1, 'a', 3]
-          sorted(data)  
+data = ['1', 'a', '3']
+print(sorted(data))
