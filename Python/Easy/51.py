@@ -5,4 +5,4 @@ class Rectangle:
     def area(self):
       return self.width * self.height
 rect = Rectangle(5, 10)
-print(rect.area) 
+print(rect.area()) 
